@@ -2,12 +2,13 @@
 
 > checks if subdomain is valid
 
+[![Build Status](https://semaphoreci.com/api/v1/gorangajic/is-subdomain-valid/branches/master/badge.svg)](https://semaphoreci.com/gorangajic/is-subdomain-valid)
+
 ```
-const isSubdomainValid = require('is-subdomain-valid');
+npm install is-subdomain-valid
 ```
 
 ```
-
 const isSubdomainValid = require('./');
 
 const valid = [
