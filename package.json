@@ -1,0 +1,16 @@
+{
+  "name": "is-subdomain-valid",
+  "version": "1.0.0",
+  "description": "checks if subdomain is valid",
+  "main": "index.js",
+  "repository": "git@github.com:gorangajic/is-subdomain-valid.git",
+  "author": "Goran Gajic",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "24.8.0"
+  }
+}
